@@ -1,0 +1,14 @@
+Helpful Links:
+https://www.upgrad.com/blog/top-challenges-in-artificial-intelligence/#:~:text=One%20of%20the%20biggest%20artificial,to%20utilize%20those%20resources%20effectively.
+https://www.spiceworks.com/tech/artificial-intelligence/guest-article/top-10-ai-development-and-implementation-challenges/
+https://medium.com/infinitethoughts/the-big-5-ai-problems-f625adf299a
+
+Technology in the modern age has advanced to the point where they are replaced many human jobs. (even art)
+Many programs have become so complicated that they are able to create art. Dall E and MidJourney
+
+AI is very sophisticated and expensive to create and the resources needed are unavailable in the majority of businesses.
+Besides the big companies like APPLE, AMAZON, GOOGLE, ETC. this technology is underused.
+
+General Problem:
+While Advances in Ai/Machines can led to more efficiceny, it raised a lot of ethical concerns. 
+The way AI works is also not understood by the public.

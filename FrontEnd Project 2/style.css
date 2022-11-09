@@ -1,7 +1,49 @@
+body{
+    background-color: grey;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+  
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+  
+li a:hover {
+    background-color: #111;
+}
+
+/*highlights which page user is one */
+.active {
+    background-color: #04AA6D;
+}
+
 .navbar{
-    
+    right:0;
+    background-color: #333;
+    padding: 0; 
 }
 
 .header{
-    
+    text-align: center;
+}
+.main{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 5%;
+}
+.intro p{
+    font-size: 25px;
 }

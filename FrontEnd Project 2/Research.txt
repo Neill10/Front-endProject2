@@ -14,8 +14,9 @@ AI is very sophisticated and expensive to create and the resources needed are un
 Besides the big companies like APPLE, AMAZON, GOOGLE, ETC. this technology is underused.
 
 General Problem:
-While Advances in Ai/Machines can led to more efficiceny, it raised a lot of ethical concerns. Art AI for example is fed a huge database of images to create images. 
-While they can produce beautiful pictures, the ehtnical concerns that this raises is whether it can be copyrighted. The artists of some images that go into these databases were not notified and the images not given consent.
+While Advances in Ai/Machines can led to more efficieny, it raised a lot of ethical concerns. Art AI for example is fed a huge database of images to create images. 
+While they can produce beautiful pictures, the ethnical concerns that this raises is whether it can be copyrighted. The artists of some images that go into these databases were not notified and the images not given consent.
 Would the creator of these AI programs be entitled to the images they create? 
 
-The way AI works is also not understood by the public. 
+The way AI works is also not understood by the public.
+privacy, bias,inequality, safety, security

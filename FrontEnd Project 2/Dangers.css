@@ -25,22 +25,6 @@ li a:hover {
     background-color: #111;
 }
 
-
-/*highlights which page user is one */
-.active {
-    background-color: #1a79b9;
-}
-
-.navbar{
-    right:0;
-    background-color: #333;
-    padding: 0; 
-}
-
-.header{
-    text-align: center;
-}
-
 .main{
     background-color: #04003f;
     margin-left: 15%;
@@ -54,21 +38,17 @@ li a:hover {
     font-size: 25px;
     margin: 1%;
 }
-
-.breakdiv{
-    height: 2px;
-    border: green solid 2px;
-    background-color: green;
-    margin: 1%;
-    border-radius: 2rem;
+/*highlights which page user is one */
+.active {
+    background-color: #1a79b9;
 }
 
-.picture{
-    display: flex;
-    justify-content: center;
+.navbar{
+    right:0;
+    background-color: #333;
+    padding: 0; 
 }
 
-#steeringWheel{
-    max-width: 40%;
-    height: auto;
+.header{
+    text-align: center;
 }

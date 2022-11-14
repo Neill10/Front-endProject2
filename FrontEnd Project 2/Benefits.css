@@ -67,3 +67,22 @@ li a:hover {
     display: flex;
     justify-content: center;
 }
+
+.gallery{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 1fr;
+}
+
+.gallery p{
+    background-color: whitesmoke;
+    color: #333;
+}
+
+.gallery img{
+    max-width: 100%;
+}
+
+.gallery div{
+    text-align: center;
+}

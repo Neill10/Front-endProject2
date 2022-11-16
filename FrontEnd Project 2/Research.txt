@@ -21,3 +21,8 @@ Would the creator of these AI programs be entitled to the images they create?
 
 The way AI works is also not understood by the public.
 privacy, bias,inequality, safety, security
+
+Index Page should explain how AI works
+Benefits should show how they can be benficial to people
+Dangers should list things that AI can harm humans
+More would be examples of AIs in a table.

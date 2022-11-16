@@ -67,3 +67,14 @@ li a:hover {
     display: flex;
     justify-content: center;
 }
+
+footer{
+    font-size: 20px;
+    position: static;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(55, 35, 98);
+    color: rgb(126, 95, 95);
+    text-align: center;
+}
